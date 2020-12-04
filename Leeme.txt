@@ -1,4 +1,4 @@
 # Manual de usuario
 
-Para poder usar los comandos de la aplicacion GIT, se deben aplicar con el siguiente formato
+Para poder usar los comandos de la aplicacion , se deben aplicar con el siguiente formato
 

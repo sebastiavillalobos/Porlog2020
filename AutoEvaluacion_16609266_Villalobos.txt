@@ -1,10 +1,5 @@
 Requerimientos Funcionales
 TDAs 0.25
-gitPull 0.5
-gitAdd 0.5
-gitCommit 0.5
-gitPush 0.5
-git2String 0
 
 
 Requerimientos No Funcionales

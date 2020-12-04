@@ -1,6 +1,4 @@
 % Dominio -> Que estructura tienen
-    %
-
 
 % Predicado -> no funcion
 
@@ -63,3 +61,35 @@ long([_|Xs],L) :- long(Xs,L1), L is L1+1.
 % Permite unir dos listas en una tercera:
 append([],Ys,Ys).
 append([X|Xs], Ys, [X|Zs]) :-  append(Xs,Ys,Zs).
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  REQUERIMIENTOS FUNCIONALES  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
